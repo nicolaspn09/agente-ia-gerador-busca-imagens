@@ -1,0 +1,4 @@
+import acessaTavily
+
+
+acessaTavily.main()
